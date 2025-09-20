@@ -53,5 +53,5 @@ idf.py monitor
 ### Clean build files
 
 ```sh
-idf.py fullyclean
+idf.py fullclean
 ```
