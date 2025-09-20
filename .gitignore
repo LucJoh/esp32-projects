@@ -1,0 +1,13 @@
+# Build files
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
